@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SAFeeCalc/static/css/main.e6c13ad2.css",
+    "main.js": "/SAFeeCalc/static/js/main.b110eaa6.js",
+    "static/js/787.717dee95.chunk.js": "/SAFeeCalc/static/js/787.717dee95.chunk.js",
+    "index.html": "/SAFeeCalc/index.html",
+    "main.e6c13ad2.css.map": "/SAFeeCalc/static/css/main.e6c13ad2.css.map",
+    "main.b110eaa6.js.map": "/SAFeeCalc/static/js/main.b110eaa6.js.map",
+    "787.717dee95.chunk.js.map": "/SAFeeCalc/static/js/787.717dee95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b110eaa6.js"
+  ]
+}
