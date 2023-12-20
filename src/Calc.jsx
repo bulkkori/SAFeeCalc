@@ -227,7 +227,7 @@ const FeeCalculator = () => {
 
           <InfoCard>
             <h3>버그 및 건의사항 제보:</h3>
-            <li>이메일: kkomunity777@gmail.com/li>
+            <li>이메일: kkomunity777@gmail.com</li>
           </InfoCard>
         </StyledContainer>
       </Container>
